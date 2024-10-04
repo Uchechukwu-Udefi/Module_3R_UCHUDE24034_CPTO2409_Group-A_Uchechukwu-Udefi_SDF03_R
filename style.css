@@ -1,7 +1,15 @@
+h1 {
+    color: rgb(0, 0, 53);
+    font-family: Georgia;
+    font-weight: bolder;
+}
+h2 {
+    color: rgb(0, 0, 53);
+}
 th {
     background-color: lightgrey;
 }
 footer {
     margin-top: 20px;
-    color: darkslateblue;
+    color: rgb(34, 24, 99);
 }
